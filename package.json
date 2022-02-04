@@ -1,5 +1,5 @@
 {
-  "name": "IMP_Project",
+  "name": "next-blog-app-2",
   "private": true,
   "scripts": {
     "dev": "next dev",
